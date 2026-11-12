@@ -6,4 +6,4 @@ Tenpenny Studio is a web studio for companies that build, make and fix real thin
 
 Website: https://tenpenny.studio
 
-Book 15 minutes: https://cal.com/diwash-tenpenny
+Book 30 minutes: https://cal.com/diwash-tenpenny
